@@ -1,4 +1,4 @@
-package com.java.basics.opeartors;
+package com.java.basics.operators;
 
 public class BitwiseOp1 {
     public static void main(String[] args) {
