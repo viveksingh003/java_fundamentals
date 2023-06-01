@@ -4,6 +4,7 @@ public class User {
     private String uname;
     private String upwd;
 
+
     public void setUname(String name) {
         uname = name;
     }

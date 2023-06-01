@@ -10,7 +10,7 @@ public class Pattern5 {
             }
 
             for (int j = 10; j > i; j--) {
-                System.out.print("*");
+                System.out.print("*"+" ");
 
             }
             System.out.println();
