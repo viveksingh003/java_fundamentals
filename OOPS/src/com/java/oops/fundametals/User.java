@@ -6,6 +6,7 @@ public class User {
 
 
     public void setUname(String name) {
+
         uname = name;
     }
 
@@ -14,6 +15,7 @@ public class User {
     }
 
     public String getUname() {
+
         return uname;
     }
 
@@ -23,9 +25,13 @@ public class User {
 
     public static void main(String[] args) {
         User u = new User();
-        u.uname = "sdsd";
-        u.upwd = "dd";
+        u.uname = "Vivek";
+        u.upwd = "Qwerty";
         System.out.println(u.uname + "  " + u.upwd);
+       u.setUname("viveksingh");
+        System.out.println(u.getUname());
+
+
     }
 
 }
