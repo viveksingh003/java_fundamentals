@@ -1,6 +1,6 @@
 package com.java.oops.fundametals;
 
-public class User {
+public class User {//obj
     private String uname;
     private String upwd;
 
