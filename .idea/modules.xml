@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Arrays_CollectionFramework/Arrays_CollectionFramework.iml" filepath="$PROJECT_DIR$/Arrays_CollectionFramework/Arrays_CollectionFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtraConcept/ExtraConcept.iml" filepath="$PROJECT_DIR$/ExtraConcept/ExtraConcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GarbageCollector/GarbageCollector.iml" filepath="$PROJECT_DIR$/GarbageCollector/GarbageCollector.iml" />
       <module fileurl="file://$PROJECT_DIR$/IOModule/IOModule.iml" filepath="$PROJECT_DIR$/IOModule/IOModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/InnerClasses/InnerClasses.iml" filepath="$PROJECT_DIR$/InnerClasses/InnerClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/JVM/JVM.iml" filepath="$PROJECT_DIR$/JVM/JVM.iml" />
