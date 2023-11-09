@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Annotation/Annotation.iml" filepath="$PROJECT_DIR$/Annotation/Annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/App1/App1.iml" filepath="$PROJECT_DIR$/App1/App1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays_CollectionFramework/Arrays_CollectionFramework.iml" filepath="$PROJECT_DIR$/Arrays_CollectionFramework/Arrays_CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BE/BE.iml" filepath="$PROJECT_DIR$/BE/BE.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtraConcept/ExtraConcept.iml" filepath="$PROJECT_DIR$/ExtraConcept/ExtraConcept.iml" />
       <module fileurl="file://$PROJECT_DIR$/GarbageCollector/GarbageCollector.iml" filepath="$PROJECT_DIR$/GarbageCollector/GarbageCollector.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS_Adv/OOPS_Adv.iml" filepath="$PROJECT_DIR$/OOPS_Adv/OOPS_Adv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questions/Questions.iml" filepath="$PROJECT_DIR$/Questions/Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegularExpression/RegularExpression.iml" filepath="$PROJECT_DIR$/RegularExpression/RegularExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringManipulation/StringManipulation.iml" filepath="$PROJECT_DIR$/StringManipulation/StringManipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_8/java_8.iml" filepath="$PROJECT_DIR$/java_8/java_8.iml" />
